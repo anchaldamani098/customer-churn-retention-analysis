@@ -1,0 +1,68 @@
+Country,Churn_Status,Num_Customers
+Australia,Active,6
+Australia,Churned,8
+Austria,Active,4
+Austria,Churned,7
+Bahrain,Churned,2
+Belgium,Active,17
+Belgium,Churned,11
+Brazil,Churned,2
+Canada,Churned,5
+"Channel Islands",Active,4
+"Channel Islands",Churned,9
+Cyprus,Active,5
+Cyprus,Churned,5
+"Czech Republic",Active,1
+Denmark,Active,8
+Denmark,Churned,1
+EIRE,Active,2
+EIRE,Churned,2
+"European Community",Churned,1
+Finland,Active,10
+Finland,Churned,4
+France,Active,61
+France,Churned,34
+Germany,Active,69
+Germany,Churned,37
+Greece,Active,1
+Greece,Churned,4
+Iceland,Active,1
+Israel,Active,1
+Israel,Churned,3
+Italy,Active,10
+Italy,Churned,7
+Japan,Active,4
+Japan,Churned,6
+Korea,Churned,2
+Lebanon,Churned,1
+Lithuania,Churned,1
+Malta,Active,1
+Malta,Churned,1
+Netherlands,Active,6
+Netherlands,Churned,16
+Nigeria,Churned,1
+Norway,Active,8
+Norway,Churned,5
+Poland,Active,2
+Poland,Churned,4
+Portugal,Active,12
+Portugal,Churned,12
+RSA,Active,1
+RSA,Churned,1
+"Saudi Arabia",Churned,1
+Singapore,Active,1
+Spain,Active,20
+Spain,Churned,18
+Sweden,Active,5
+Sweden,Churned,14
+Switzerland,Active,12
+Switzerland,Churned,10
+Thailand,Churned,1
+"United Arab Emirates",Active,1
+"United Arab Emirates",Churned,3
+"United Kingdom",Active,2613
+"United Kingdom",Churned,2737
+Unspecified,Churned,6
+USA,Active,3
+USA,Churned,6
+"West Indies",Churned,1
