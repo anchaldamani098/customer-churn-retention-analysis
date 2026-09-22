@@ -96,5 +96,5 @@ Full detail in [`Business_Recommendations.md`](./Business_Recommendations.md). S
 
 ## Author
 
-Analysis by **[Your Name]**
+Analysis by **[Anchal Damani]**
 Data source: Online Retail II, UCI Machine Learning Repository
