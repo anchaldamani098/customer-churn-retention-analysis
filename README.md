@@ -84,12 +84,14 @@ Full detail in [`Business_Recommendations.md`](./Business_Recommendations.md). S
 ## Repository Contents
 
 ```
-├── README.md                          # Project overview (this file)
+├── README.md                         # Project overview (this file)
 ├── Business_Recommendations.md        # Detailed retention recommendations
 ├── churn_analysis_queries.sql         # Full SQL script (cleaning → RFM → segmentation)
 ├── Customer_Churn_Retention_Dashboard.pbix   # Power BI dashboard
-├── Churn_Analysis_Excel.xlsx          # Pivot table validation workbook
+├── Online_retail_excel_cleaned_data   # Cleaned Online retail data
+|   Churn_Analysis_Excel.xlsx          # Pivot table validation workbook
 └── dashboard_screenshot.png           # Dashboard preview image
+
 ```
 
 ---
