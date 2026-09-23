@@ -26,6 +26,7 @@ Unlike many churn datasets used for portfolio projects, this dataset provides on
 
 **Raw dataset:** The original dataset is not included in this repository due to GitHub file-size limitations. 
   The analysis was performed using the Online Retail II dataset.
+  
 **1. Data Cleaning (SQL — MySQL)**
 - Removed cancelled orders (invoices flagged with a "C" prefix)
 - Removed records with missing or invalid customer IDs
